@@ -1,0 +1,43 @@
+header{
+    height: 80vh;
+    background-image: url(../imagens/monte\ retangular.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.headerh1{
+    font-size: 7em;
+    text-shadow: 1px 1px 3px #000;
+    line-height: 61%;
+}
+.padding{
+    margin-left: 8%;  
+}
+.h2{
+    text-align: right;
+    margin-right: 7px;
+}
+.bottom{
+    text-align: right;
+}
+footer{
+    height: 19vh;
+    background-color: rgb(71, 80, 80);
+}
+
+.bg.secondary{
+    background-color: rgba(86, 89, 92, 0.917);
+}
+.space{
+    margin-left: 10px;
+}
+.h1{
+    padding-top: 30%;
+    font-family: Verdana;
+}
